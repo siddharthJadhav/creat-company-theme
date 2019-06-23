@@ -42,3 +42,26 @@
 .portfolio-heading {
   margin-bottom: 40px;
 }
+
+h2 {
+  font-size: 25px;
+  margin-bottom: 40px;
+  font-weight: bold
+}
+
+.customer-review { 
+  margin-top: 80px;
+}
+
+.img-title {
+  background-color: #ffffff;
+  padding-bottom: 15px;
+}
+
+.carousel-control {
+  font-size: 30px;
+}
+
+.carousel-inner p {
+  font-size: 20px;
+}
