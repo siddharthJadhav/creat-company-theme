@@ -60,8 +60,26 @@ h2 {
 
 .carousel-control {
   font-size: 30px;
+  background-image: none !important;
+  top: 20px;
 }
 
 .carousel-inner p {
   font-size: 20px;
+}
+
+.fa-chevron-left:before, .fa-chevron-right:before {
+  color: #f4511e;
+}
+
+.carousel-indicators { 
+  margin-bottom: -50px;
+}
+
+.carousel-indicators li {
+  border-color: #f4511e;
+}
+
+.carousel-indicators .active {
+  background-color: #f4511e;
 }
