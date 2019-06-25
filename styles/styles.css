@@ -84,3 +84,11 @@ h2 {
 .carousel-indicators .active {
   background-color: #f4511e;
 }
+
+.pricing-header {
+  padding: 40px 0;
+  background-color: #f3511f;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 2px;
+}
