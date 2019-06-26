@@ -86,12 +86,38 @@ h2 {
 }
 
 .pricing-header {
-      color: white;
-      background-color: #f4511e;
-      padding: 30px;
-      font-size: 35px;
+  color: white;
+  background-color: #f4511e;
+  padding: 30px;
+  font-size: 35px;
 }
 
-ul {
+.pricing-list {
   list-style: none;
+  padding-left: 0;
+}
+
+.pricing-list p {
+  padding: 10px 0;
+}
+
+.pricing {
+  padding: 0;
+  margin: 0 15px;
+  border: 2px solid #f4511e;
+}
+
+hr {
+  border-top: 1px solid #0a0a0a61;
+}
+
+.pricing-value {
+  font-size: 30px;
+  margin-bottom: 0;
+}
+
+.sign-up{
+  margin: 20px;
+  font-size: 20px;
+  background-color: #f4511e;
 }
