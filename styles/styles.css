@@ -121,3 +121,11 @@ hr {
   font-size: 20px;
   background-color: #f4511e;
 }
+
+.pricing-box {
+  padding: 0;
+}
+
+.pricing-containar {
+  margin-top: 40px;
+}
