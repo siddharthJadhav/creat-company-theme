@@ -142,8 +142,14 @@ hr {
 
 .pricing-containar {
   margin-top: 40px;
+  margin-bottom: 40px;
 }
 
 .pricing strong {
   color: #636262;
 }
+
+.contact-detail {
+  color: #868383;
+  font-size: 17px;
+} 
