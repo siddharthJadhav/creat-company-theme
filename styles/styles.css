@@ -181,3 +181,10 @@ hr {
   background-color: #ffffff !important;
   color: #f4511e !important;
 }
+
+.logo-small {
+  color: #f4511e;
+  font-size: 20px;
+  margin-bottom: 20px;
+  font: bold;
+}
