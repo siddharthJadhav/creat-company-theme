@@ -152,4 +152,23 @@ hr {
 .contact-detail {
   color: #868383;
   font-size: 17px;
-} 
+}
+
+.navbar {
+  background-color: #f4511e;
+  border: none;
+}
+
+.menu-color {
+  color: #ffffff !important;
+  letter-spacing: 4px;
+  font-size: 12px;
+  font-family: Montserrat, sans-serif;
+}
+
+.logo-color {
+  color: #ffffff !important;
+  letter-spacing: 6px;
+  font-size: 15px;
+  font-family: Montserrat, sans-serif;
+}
